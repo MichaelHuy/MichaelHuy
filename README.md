@@ -33,9 +33,6 @@ In addition to my front-end expertise, I have a strong background in React Nativ
 * Experience with Fastlane, Github actions, Codebuild, Codepineline
 * Love ChatGPT, Claude
 
-### Links
-[My Blog](https://www.vitinhhoangduc.com/blog)
-
 ### My Sport Favorite
 * Badminton - a fan of Kento Momota
 
