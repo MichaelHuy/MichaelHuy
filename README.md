@@ -1,9 +1,11 @@
 ## Hello
 #####
 
-My name is Huy Le, and I am a seasoned software developer based in Ho Chi Minh City, Vietnam. I have extensive experience in React, Firebase Cloud Messaging, and native iOS/Android development.
+My name is Huy Le, and I am a seasoned software developer based in Ho Chi Minh City, Vietnam. I have extensive experience in React from 16, Firebase Cloud Messaging, and native iOS/Android development.
 
-Throughout my career, I have worked with prominent companies such as CSC Vietnam, Global CyberSoft, and NxComm. I played a key role in developing and delivering high-quality software solutions for clients in the US and Australia.
+Throughout my career, I have worked with prominent companies such as CSC Vietnam, Global CyberSoft, and NxComm, where I played a key role in developing and delivering high-quality software solutions for clients in the US and Australia.
+
+In addition to my front-end expertise, I have a strong background in React Native, upgraded to react native latest version.
 
 ### Skills
 
