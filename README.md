@@ -29,6 +29,7 @@ In addition to my front-end expertise, I have a strong background in React Nativ
 
 #### Tools/Deploy:
 * Source control: SVN, Github, Bitbucket, Git command line, Jira
+* Submit the app to CH Play and Apple Store (Alpha, Beta, Production)
 * CI/CD, DevOps, Fastlane deploy, Github Action build
 * Experience with Fastlane, Github actions, Codebuild, Codepineline
 * Love ChatGPT, Claude
