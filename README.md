@@ -3,9 +3,10 @@
 # 👨‍💻 Huy Le (Michael Huy)
 ### Senior Full-Stack & AI Systems Architect · Generative Media & Desktop Specialist
 
-[![Website](https://img.shields.io/badge/Website-vitinhhoangduc.com-00DC82?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitinhhoangduc.com)
-[![Blog](https://img.shields.io/badge/Tech_Blog-Read_Articles-blue?style=for-the-badge&logo=hashnode&logoColor=white)](https://vitinhhoangduc.com/blog)
-[![X / Twitter](https://img.shields.io/badge/X-@HuyLeCong-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HuyLeCong)
+[![Website](assets/badges/badge-website.svg)](https://vitinhhoangduc.com)
+[![Tech Blog](assets/badges/badge-blog.svg)](https://vitinhhoangduc.com/blog)
+[![X / Twitter](assets/badges/badge-x.svg)](https://twitter.com/HuyLeCong)
+[![LinkedIn](assets/badges/badge-linkedin.svg)](https://www.linkedin.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MichaelHuy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -43,52 +44,51 @@ Throughout my career, I have designed and delivered scalable enterprise solution
   Dynamic 9:16 layout for TikTok/Shorts · Kinetic typography & keyword highlight · Neural voiceover sync</sub>
 </p>
 
-<!-- 
-TIP: To enable the native HTML5 player with sound on GitHub:
-1. Drag & drop 'assets/remotion-demo.mp4' into any GitHub issue or PR comment.
-2. Copy the generated CDN URL (https://github.com/user-attachments/assets/...)
-3. Replace the link below and uncomment:
-
-<video src="https://github.com/user-attachments/assets/YOUR_ATTACHMENT_ID.mp4" width="340" controls></video>
--->
-
 </div>
 
 ---
 
 ### 🛠️ Tech Stack & Engineering Arsenal
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,electron,vite,nodejs,firebase,gcp,nginx,bash,docker,githubactions&theme=dark" alt="Skills Matrix" />
+  </a>
+</div>
+
+<br/>
+
 #### 🤖 AI, Multi-Agent Orchestration & Media Engine
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Remotion](https://img.shields.io/badge/Remotion_v4-0B84F3?style=flat-square&logo=react&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg_Native_&_Wasm-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Neural TTS](https://img.shields.io/badge/Neural_TTS-VieNeu_%2F_OmniVoice-purple?style=flat-square)
+![Google Gemini](assets/badges/gemini.svg)
+![OpenAI](assets/badges/openai.svg)
+![Claude](assets/badges/claude.svg)
+![Remotion](assets/badges/remotion.svg)
+![FFmpeg](assets/badges/ffmpeg.svg)
+![Neural TTS](assets/badges/tts.svg)
 
 #### 💻 Frontend & Cross-Platform Desktop
-![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js 16](https://img.shields.io/badge/Next.js_16_(App_Router)-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron_v45+-47848F?style=flat-square&logo=electron&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![MUI v9](https://img.shields.io/badge/MUI_v9-007FFF?style=flat-square&logo=mui&logoColor=white)
+![React 19](assets/badges/react.svg)
+![Next.js 16](assets/badges/nextjs.svg)
+![TypeScript](assets/badges/typescript.svg)
+![Electron](assets/badges/electron.svg)
+![Vite](assets/badges/vite.svg)
+![MUI v9](assets/badges/mui.svg)
 
 #### 🚀 DevOps, CI/CD & Linux VPS Infrastructure
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
-![Linux VPS](https://img.shields.io/badge/Linux_%2F_Ubuntu_VPS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx_Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![App Store](https://img.shields.io/badge/Apple_App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white)
+![GitHub Actions](assets/badges/githubactions.svg)
+![Fastlane](assets/badges/fastlane.svg)
+![Linux VPS](assets/badges/linux.svg)
+![Nginx](assets/badges/nginx.svg)
+![Bash](assets/badges/bash.svg)
+![Apple App Store](assets/badges/appstore.svg)
+![Google Play](assets/badges/googleplay.svg)
 
 #### ☁️ Cloud, Databases & SaaS Storage Vault
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_(Auth_%2F_Firestore)-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Meilisearch](https://img.shields.io/badge/Meilisearch-FF4E63?style=flat-square&logo=meilisearch&logoColor=white)
+![NodeJS](assets/badges/nodejs.svg)
+![Firebase](assets/badges/firebase.svg)
+![Google Cloud](assets/badges/gcp.svg)
+![Cloudflare](assets/badges/cloudflare.svg)
+![Meilisearch](assets/badges/meilisearch.svg)
 
 ---
 
@@ -115,13 +115,8 @@ TIP: To enable the native HTML5 player with sound on GitHub:
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelHuy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHuy&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=MichaelHuy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelHuy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
